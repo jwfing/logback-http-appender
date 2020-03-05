@@ -30,8 +30,8 @@
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.com/jwfing/logback-http-appender.git</connection>
-    <developerConnection>scm:git:https://github.com/jwfing/logback-http-appender.git</developerConnection>
+    <connection>scm:git:git@github.com:jwfing/logback-http-appender.git</connection>
+    <developerConnection>scm:git:git@github.com:jwfing/logback-http-appender.git</developerConnection>
     <url>http://github.com/jwfing/logback-http-appender/tree/master</url>
     <tag>HEAD</tag>
   </scm>
